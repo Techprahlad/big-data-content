@@ -59,7 +59,7 @@ user@ubuntu:~$   hadoop fs -mkdir /usr/hive/warehouse
 Setting READ/WRITE permission for table
 Command
 
-user@ubuntu:~$  hadoop fs -chmod g+w /usr/hive/warehouse
+user@ubuntu:~$  hadoop fs -chmod g+w /usr/lib/hive/warehouse
 HIVE launch
 Command
 
