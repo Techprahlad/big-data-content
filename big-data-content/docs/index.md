@@ -24,7 +24,7 @@ Commands
 
 ```
 user@ubuntu:~$  cd
-user@ubuntu:~$  sudo gedit  ~/.bashrc
+user@ubuntu:~$  sudo nano  ~/.bashrc
 Copy and paste the following lines at end of the file
 
 # Set HIVE_HOME
